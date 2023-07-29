@@ -1,3 +1,4 @@
 DOMAIN,dns.google
 DOMAIN,cloudflare-dns.com
 DOMAIN,public.dns.iij.jp
+DOMAIN,doh.opendns.com
