@@ -2,3 +2,7 @@ DOMAIN,dns.google
 DOMAIN,cloudflare-dns.com
 DOMAIN,public.dns.iij.jp
 DOMAIN,doh.opendns.com
+
+IP-CIDR,208.67.222.222/24,no-resolve
+IP-CIDR,1.1.1.1/24,no-resolve
+IP-CIDR,8.8.8.8/24,no-resolve
