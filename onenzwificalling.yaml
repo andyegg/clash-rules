@@ -1,0 +1,4 @@
+payload:
+  - 'DOMAIN,epdg.epc.mnc001.mcc530.pub.3gppnetwork.org'
+  - 'DOMAIN,ss.epdg.epc.geo.mnc001.mcc530.pub.3gppnetwork.org'
+  - 'IP-CIDR,203.96.192.0/19,no-resolve'
