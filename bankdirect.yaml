@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,bank
   - DOMAIN-KEYWORD,hsbc
+  - DOMAIN-SUFFIX,vv1865.com
   - DOMAIN-SUFFIX,za.group
   - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,cmbwinglungbank.com
