@@ -5,6 +5,7 @@ payload:
   - 'DOMAIN,cloudflare-dns.com'
   - 'DOMAIN,dns.opendns.com'
   - 'DOMAIN,dns.quad9.net'
+  - 'DOMAIN,dns9.quad9.net'
   - 'IP-CIDR,8.8.8.8/32,no-resolve'
   - 'IP-CIDR,8.8.4.4/32,no-resolve'
   - 'IP-CIDR,1.1.1.1/32,no-resolve'
