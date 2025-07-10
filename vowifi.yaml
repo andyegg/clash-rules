@@ -1,4 +1,5 @@
 payload:
+#T-Mobile VoWiFi
   - 'DOMAIN,crl.t-mobile.com'
   - 'DOMAIN,eas3.msg.t-mobile.com'
   - 'DOMAIN,mascns.t-mobile.com'
@@ -10,9 +11,15 @@ payload:
   - 'IP-CIDR,66.94.0.0/19,no-resolve'
   - 'IP-CIDR,206.29.177.36/32,no-resolve'
   - 'IP-CIDR,208.54.0.0/16,no-resolve'
+#OneNZ VoWiFi
   - 'DOMAIN,epdg.epc.mnc001.mcc530.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc001.mcc530.pub.3gppnetwork.org'
   - 'IP-CIDR,203.96.192.0/19,no-resolve'
+#AIS VoWiFi
   - 'DOMAIN,epdg.epc.mnc003.mcc520.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc003.mcc520.pub.3gppnetwork.org'
   - 'IP-CIDR,119.31.120.0/22,no-resolve'
+#Vodafone DE VoWiFi
+  - 'DOMAIN,epdg.epc.mnc001.mcc262.pub.3gppnetwork.org'
+  - 'DOMAIN,ss.epdg.epc.geo.mnc002.mcc262.pub.3gppnetwork.org'
+  - 'IP-CIDR,139.7.117.0/24,no-resolve'

@@ -5,11 +5,10 @@ payload:
 #EE
   - 'DOMAIN,epdg.epc.mnc030.mcc234.pub.3gppnetwork.org'
   - 'DOMAIN,epdg.epc.mnc033.mcc234.pub.3gppnetwork.org'
-#O2
+#giffgaff/O2
   - 'DOMAIN,epdg.epc.mnc002.mcc234.pub.3gppnetwork.org'
   - 'DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org'
   - 'DOMAIN,epdg.epc.mnc011.mcc234.pub.3gppnetwork.org'
-#giffgaff/O2
   - 'IP-CIDR,87.194.0.0/16,no-resolve'
 #3UK
   - 'DOMAIN,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org'
