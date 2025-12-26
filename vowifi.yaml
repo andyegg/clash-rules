@@ -11,6 +11,16 @@ payload:
   - 'IP-CIDR,66.94.0.0/19,no-resolve'
   - 'IP-CIDR,206.29.177.36/32,no-resolve'
   - 'IP-CIDR,208.54.0.0/16,no-resolve'
+#AT&T VoWiFi
+  - 'DOMAIN,epdg.epc.att.net'
+  - 'DOMAIN,epdg.epc.mnc150.mcc310.pub.3gppnetwork.org'
+  - 'DOMAIN,epdg.epc.mnc180.mcc311.pub.3gppnetwork.org'
+  - 'DOMAIN,sentitlement2.mobile.att.net'
+  - 'DOMAIN,mmsc.mobile.att.net'
+# - 0.ecom.attccc.com
+# - attdashboard.wireless.att.com
+  - fp-us-att.rcs.telephony.goog
+  - 'IP-CIDR,107.122.31.0/24,no-resolve'
 #OneNZ VoWiFi
   - 'DOMAIN,epdg.epc.mnc001.mcc530.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc001.mcc530.pub.3gppnetwork.org'
