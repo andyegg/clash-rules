@@ -15,6 +15,8 @@ payload:
   - 'DOMAIN,epdg.epc.att.net'
   - 'DOMAIN,epdg.epc.mnc150.mcc310.pub.3gppnetwork.org'
   - 'DOMAIN,epdg.epc.mnc180.mcc311.pub.3gppnetwork.org'
+  - 'DOMAIN,epdg.epc.mnc280.mcc310.pub.3gppnetwork.org'
+  - 'DOMAIN,aes.mnc280.mcc310.pub.3gppnetwork.org'
   - 'DOMAIN,sentitlement2.mobile.att.net'
   - 'DOMAIN,mmsc.mobile.att.net'
 # - 0.ecom.attccc.com
