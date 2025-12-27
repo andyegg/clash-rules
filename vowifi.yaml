@@ -21,7 +21,7 @@ payload:
   - 'DOMAIN,mmsc.mobile.att.net'
 # - 0.ecom.attccc.com
 # - attdashboard.wireless.att.com
-  - fp-us-att.rcs.telephony.goog
+# - fp-us-att.rcs.telephony.goog
   - 'IP-CIDR,107.122.31.0/24,no-resolve'
 #OneNZ VoWiFi
   - 'DOMAIN,epdg.epc.mnc001.mcc530.pub.3gppnetwork.org'
