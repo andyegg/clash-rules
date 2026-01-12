@@ -2,4 +2,6 @@ payload:
   - 'DOMAIN-SUFFIX,apple-relay.fastly-edge.com'
   - 'DOMAIN-SUFFIX,apple-relay.cloudflare.com'
   - 'DOMAIN-SUFFIX,apple-relay.apple.com'
+  - 'DOMAIN-SUFFIX,smoot.apple.com'
+  - 'DOMAIN-SUFFIX,guzzoni.apple.com'
 # This file contains domains for Apple Relay, hosted by Apple, Inc.
