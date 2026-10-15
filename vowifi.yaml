@@ -31,6 +31,9 @@ payload:
   - 'DOMAIN,epdg.epc.mnc003.mcc520.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc003.mcc520.pub.3gppnetwork.org'
   - 'IP-CIDR,119.31.120.0/22,no-resolve'
+#DITO VoWiFi
+  - 'DOMAIN,epdg.epc.mnc066.mcc515.pub.3gppnetwork.org'
+  - 'IP-CIDR,131.226.72.0/23,no-resolve'
 #Vodafone DE VoWiFi
   - 'DOMAIN,epdg.epc.mnc001.mcc262.pub.3gppnetwork.org'
   - 'DOMAIN,ss.epdg.epc.geo.mnc002.mcc262.pub.3gppnetwork.org'
